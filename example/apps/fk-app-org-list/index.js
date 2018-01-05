@@ -3,7 +3,7 @@ import * as data from './data'
 
 export default {
 	name: "fk-app-org-list",
-	version: "1.0.0",
+	version: "1.0.6",
 	description: "fk-app-org-list",
 	meta: data.getMeta(),
 	components: [],

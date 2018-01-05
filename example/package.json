@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "example",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "andy",
+  "author": "",
   "license": "MIT",
   "dependencies": {
-    "fk-component": "^1.0.1",
-    "fk-meta-engine": "^1.0.1",
-    "fk-utils": "^1.0.3",
+    "fk-component": "^1.0.2",
+    "fk-meta-engine": "^1.0.2",
+    "fk-utils": "^1.0.4",
     "moment": "^2.19.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
