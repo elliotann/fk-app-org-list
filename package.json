@@ -1,0 +1,22 @@
+{
+  "name": "fk-app-org-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fk-app-org-list",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotann/fk-app-org-list.git"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliotann/fk-app-org-list/issues"
+  },
+  "homepage": "https://github.com/elliotann/fk-app-org-list#readme"
+}
