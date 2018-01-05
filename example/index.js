@@ -2,7 +2,7 @@ import { config, start, componentFactory } from 'fk-meta-engine'
 import * as mkComponents from 'fk-component'
 import myConfig  from './config'
 
-import fk_app_org_list from './apps/fk-app-org-list/index.js'
+import fk_app_org_list from './apps/mk-app-person-list/index.js'
 
 const apps = {
 		

@@ -1,2 +1,2 @@
 
-import './apps/fk-app-org-list/mock.js';
+import './apps/mk-app-person-list/mock.js';
